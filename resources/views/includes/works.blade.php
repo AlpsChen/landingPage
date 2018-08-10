@@ -212,9 +212,13 @@
 
         </div><!-- #portfolio end -->
 
+        <div class="divider divider-center topmargin-lg"><i class="icon-code"></i></div>
+
     </div>
 
-    <div class="section dark parallax nobottommargin" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');" data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+    
+
+    <div class="section parallax nobottommargin" style="data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px; padding:0px;">
 
         <div class="container clearfix">
 
@@ -241,8 +245,32 @@
                 <div class="counter counter-lined"><span data-from="60" data-to="1200" data-refresh-interval="30" data-speed="2700"></span>+</div>
                 <h5>Hours of Coding</h5>
             </div>
-
+            
         </div>
+        <br><br><br>
+        <div class="heading-block center">
+            <h2>Our Works</h2>
+            <span>Some of the Awesome Projects we've worked on.</span>
+        </div>
+
+        <ul class="process-steps bottommargin clearfix">
+            <li>
+                <a href="#" class="i-circled i-alt divcenter icon-shopping-cart"></a>
+                <h5>找題目</h5>
+            </li>
+            <li>
+                <a href="#" class="i-circled i-alt divcenter icon-shopping-cart"></a>
+                <h5>選框架</h5>
+            </li>
+            <li class="active">
+                <a href="#" class="i-circled i-alt divcenter bgcolor icon-shopping-cart"></a>
+                <h5>熬夜幹</h5>
+            </li>
+            <li>
+                <a href="#" class="i-circled i-alt divcenter icon-shopping-cart"></a>
+                <h5>展成果</h5>
+            </li>
+        </ul>
 
     </div>
 

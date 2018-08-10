@@ -103,8 +103,9 @@
 
         <div class="clear"></div>
 
+        <div class="divider divider-center "><i class="icon-phone"></i></div>
     </div>
 
-    <div class="divider divider-short divider-center topmargin-lg"><i class="icon-star3"></i></div>
+    
 
 </section>
