@@ -1,7 +1,7 @@
 <section id="section-work" class="page-section topmargin-lg">
 
     <div class="heading-block center">
-        <h2>Our Works</h2>
+        <h2>My App</h2>
         <span>Some of the Awesome Projects we've worked on.</span>
     </div>
 
@@ -14,32 +14,32 @@
             <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
                     <a href="portfolio-single.html">
-                        <img src="images/portfolio/4/1.jpg" alt="Open Imagination">
+                        <img src="{{asset('images/home/works_onboardingPage.png')}}" alt="Open Imagination">
                     </a>
                     <div class="portfolio-overlay">
-                        <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        <a href="{{asset('images/home/works_onboardingPage.png')}}" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                        {{-- <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a> --}}
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Open Imagination</a></h3>
-                    <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                    <h3><a href="portfolio-single.html">Onboarding Pages</a></h3>
+                    <span>Introduce my app to the first time users.<br><br></span>
                 </div>
             </article>
 
             <article class="portfolio-item pf-illustrations">
                 <div class="portfolio-image">
                     <a href="portfolio-single.html">
-                        <img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
+                        <img src="{{asset('images/home/works_loginPage.png')}}" alt="Locked Steel Gate">
                     </a>
                     <div class="portfolio-overlay">
-                        <a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        <a href="{{asset('images/home/works_loginPage.png')}}" class="center-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                        {{-- <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a> --}}
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-                    <span><a href="#">Illustrations</a></span>
+                    <h3><a href="portfolio-single.html">Login & Signup Page</a></h3>
+                    <span>Took me a significant time to tackle with the authentication functions.</span>
                 </div>
             </article>
 

@@ -60,11 +60,10 @@
 							<li><a href="#" data-href="#home"><div>Home</div></a></li>
 							<li><a href="#" data-href="#section-about"><div>About Me</div></a></li>
 							<li><a href="#" data-href="#section-work"><div>My App</div></a></li>
+							<li><a href="#" data-href="#section-testimonials" data-offset="60"><div>Coding</div></a></li>
 							<li><a href="#" data-href="#section-hobby"><div>Hobbies</div></a></li>
 							<li><a href="#" data-href="#section-research-map"><div>Research Map</div></a></li>
-							<li><a href="#" data-href="#section-pricing"><div>Pricing</div></a></li>
-							<li><a href="blog.html"><div>Blog</div></a></li>
-							<li><a href="#" data-href="#section-testimonials" data-offset="60"><div>Testimonials</div></a></li>
+							{{-- <li><a href="blog.html"><div>Blog</div></a></li> --}}
 							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
 						</ul>
 
