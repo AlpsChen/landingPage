@@ -7,8 +7,8 @@
 						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">WELCOME</h2>
-									<p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">Welcome to my website.</p>
+									<h2 data-caption-animate="fadeInUp">您好 ¡Hola!</h2>
+									<p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">我是陳泓安。I'm Hung-An Chen.</p>
 								</div>
 							</div>
 						</div>
