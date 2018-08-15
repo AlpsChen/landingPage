@@ -1,4 +1,4 @@
-<section id="section-testimonials" class="page-section section parallax dark" style="background: url('images/home/coding/1.png'); padding: 200px 0;"
+<section id="section-testimonials" class="page-section section parallax dark" style="background: url('images/home/coding/1.png');background-size: 1500px; padding: 200px 0;"
     data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
 
     <div class="container clearfix">
