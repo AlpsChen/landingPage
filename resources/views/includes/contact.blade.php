@@ -1,58 +1,76 @@
 <section id="section-contact" class="page-section">
 
-  <div class="heading-block title-center">
-    <h2>Get in Touch with us</h2>
-    <span>Still have Questions? Contact Us using the Form below.</span>
-  </div>
+    <div class="heading-block title-center">
+        <h2>Get in Touch with me</h2>
+        <span>Got some Questions? Contact Me immediately!</span>
+    </div>
 
-  <div class="container clearfix">
+    <div class="container clearfix">
 
-    <!-- Contact Info
+        <!-- Contact Info
     ============================================= -->
-    <div class="col_full nobottommargin clearfix">
+        <div class="col_full nobottommargin clearfix">
 
-      <div class="col_one_fourth">
-        <div class="feature-box fbox-center fbox-bg fbox-plain">
-          <div class="fbox-icon">
-            <a href="#"><i class="icon-map-marker2"></i></a>
-          </div>
-          <h3>Our Headquarters<span class="subtitle">Melbourne, Australia</span></h3>
+            <div class="col_one_fourth">
+                <div class="feature-box fbox-center fbox-bg fbox-plain">
+                    <div class="fbox-icon">
+                        <!-- <a href="#"> -->
+                        <i class="icon-home2"></i>
+                        <!-- </a> -->
+                    </div>
+                    <h3>Where I live
+                        <span class="subtitle">Taipei, Taiwan</span>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="col_one_fourth">
+                <div class="feature-box fbox-center fbox-bg fbox-plain">
+                    <div class="fbox-icon">
+                        <a href="#">
+                            <i class="icon-line-mail"></i>
+                        </a>
+                    </div>
+                    <h3>Send me a mail
+                        <span class="subtitle">alpschen05@gmail.com</span>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="col_one_fourth">
+                <div class="feature-box fbox-center fbox-bg fbox-plain">
+                    <div class="fbox-icon">
+                        <a href="https://www.facebook.com/profile.php?id=100003523100497">
+                            <i class="icon-facebook2"></i>
+                        </a>
+                    </div>
+                    <h3>Send me a message
+                        <span class="subtitle">@陳泓安</span>
+                    </h3>
+                </div>
+            </div>
+
+            <div class="col_one_fourth col_last">
+                <div class="feature-box fbox-center fbox-bg fbox-plain">
+                    <div class="fbox-icon">
+                        <a href="#">
+                            <i class="icon-instagram2"></i>
+                        </a>
+                    </div>
+                    <h3>Follow me
+                        <span class="subtitle">@ck_tzuan__</span>
+                    </h3>
+                </div>
+            </div>
+
         </div>
-      </div>
+        <!-- Contact Info End -->
 
-      <div class="col_one_fourth">
-        <div class="feature-box fbox-center fbox-bg fbox-plain">
-          <div class="fbox-icon">
-            <a href="#"><i class="icon-phone3"></i></a>
-          </div>
-          <h3>Speak to Us<span class="subtitle">(123) 456 7890</span></h3>
-        </div>
-      </div>
-
-      <div class="col_one_fourth">
-        <div class="feature-box fbox-center fbox-bg fbox-plain">
-          <div class="fbox-icon">
-            <a href="#"><i class="icon-skype2"></i></a>
-          </div>
-          <h3>Make a Video Call<span class="subtitle">CanvasOnSkype</span></h3>
-        </div>
-      </div>
-
-      <div class="col_one_fourth col_last">
-        <div class="feature-box fbox-center fbox-bg fbox-plain">
-          <div class="fbox-icon">
-            <a href="#"><i class="icon-twitter2"></i></a>
-          </div>
-          <h3>Follow on Twitter<span class="subtitle">2.3M Followers</span></h3>
-        </div>
-      </div>
-
-    </div><!-- Contact Info End -->
-
-  </div>
+    </div>
 
 </section>
 
 </div>
 
-</section><!-- #content end -->
+</section>
+<!-- #content end -->

@@ -1,4 +1,5 @@
-<section id="section-testimonials" class="page-section section parallax dark" style="background: url('images/about/me-parallax.jpg'); padding: 200px 0;" data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
+<section id="section-testimonials" class="page-section section parallax dark" style="background: url('images/home/coding/1.png'); padding: 200px 0;"
+    data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
 
     <div class="container clearfix">
 
@@ -16,7 +17,8 @@
                     <div class="slider-wrap">
                         <div class="slide">
                             <div class="testi-content">
-                                <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                                <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus,
+                                    vero numquam?</p>
                                 <div class="testi-meta">
                                     Steve Jobs
                                     <span>Apple Inc.</span>
@@ -25,7 +27,8 @@
                         </div>
                         <div class="slide">
                             <div class="testi-content">
-                                <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                                <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id
+                                    culpa corporis molestias.</p>
                                 <div class="testi-meta">
                                     Collis Ta'eed
                                     <span>Envato Inc.</span>
@@ -34,7 +37,8 @@
                         </div>
                         <div class="slide">
                             <div class="testi-content">
-                                <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                                <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero
+                                    illo rerum!</p>
                                 <div class="testi-meta">
                                     John Doe
                                     <span>XYZ Inc.</span>
