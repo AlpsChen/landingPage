@@ -318,31 +318,27 @@
             <div class="col_one_fourth nobottommargin center " data-animate="bounceIn ">
                 <i class="i-plain i-xlarge divcenter nobottommargin icon-code "></i>
                 <div class="counter counter-lined ">
-                    <span data-from="100 " data-to="2500 " data-refresh-interval="50" data-speed="2000 ">+</span>
-                </div>
+                    <span data-from="100" data-to="2500" data-refresh-interval="50" data-speed="2000"></span>+</div>
                 <h5>Lines of Codes</h5>
             </div>
 
-            <div class="col_one_fourth nobottommargin center " data-animate="bounceIn " data-delay="200 ">
+            <div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="200">
                 <i class="i-plain i-xlarge divcenter nobottommargin icon-time "></i>
                 <div class="counter counter-lined ">
-                    <span data-from="3000 " data-to="15360 " data-refresh-interval="100" data-speed="2500 "></span>+</div>
+                    <span data-from="50" data-to="100" data-refresh-interval="100" data-speed="2500"></span>+</div>
                 <h5>Hours of Learning</h5>
             </div>
 
-            <div class="col_one_fourth nobottommargin center " data-animate="bounceIn " data-delay="400 ">
+            <div class="col_one_fourth nobottommargin center " data-animate="bounceIn" data-delay="400">
                 <i class="i-plain i-xlarge divcenter nobottommargin icon-eye "></i>
                 <div class="counter counter-lined ">
-                    <span data-from="10 " data-to="386 " data-refresh-interval="25
-        " data-speed="3500 "></span>+</div>
+                    <span data-from="30" data-to="50" data-refresh-interval="25" data-speed="2000"></span>+</div>
                 <h5>Times of Views</h5>
             </div>
 
-            <div class="col_one_fourth nobottommargin center col_last " data-animate="bounceIn " data-delay="600 ">
+            <div class="col_one_fourth nobottommargin center col_last " data-animate="bounceIn" data-delay="600">
                 <i class="i-plain i-xlarge divcenter nobottommargin icon-line-cross "></i>
-                <div class="counter counter-lined ">
-                    <span data-from="60 " data-to="1200 " data-refresh-interval="30
-        " data-speed="2700 "></span>+</div>
+                <div class="counter counter-lined ">∞</div>
                 <h5>Times of Errors</h5>
             </div>
 

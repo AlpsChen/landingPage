@@ -53,10 +53,10 @@
 					============================================= -->
                     <div id="logo">
                         <a href="{{url('/')}}" class="standard-logo" data-dark-logo="images/logo.png">
-                            <img src="{{asset('images/logo.png')}}" alt="Hung-An">
+                            <img src="{{asset('images/logo2.png')}}" alt="Hung-An">
                         </a>
                         <a href="{{url('/')}}" class="retina-logo" data-dark-logo="images/logo@2x.png">
-                            <img src="{{asset('images/logo.png')}}" alt="Hung-An">
+                            <img src="{{asset('images/logo2.png')}}" alt="Hung-An">
                         </a>
                         <!-- <h1 style="justify-content: center">Hung-An</h1> -->
                     </div>
