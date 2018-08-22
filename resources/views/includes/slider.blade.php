@@ -21,7 +21,7 @@
                     </div>
                     <div class="video-wrap">
                         <video poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-                            <source src='images/home/slider/2.mp4' type='video/mp4' />
+                            {{-- <source src='images/home/slider/2.mp4' type='video/mp4' /> --}}
                             <!-- <source src='images/videos/explore.webm' type='video/webm' /> -->
                         </video>
                         <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
