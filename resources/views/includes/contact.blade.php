@@ -40,12 +40,12 @@
             <div class="col_one_fourth">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <a href="https://www.facebook.com/profile.php?id=100003523100497">
+                        <a href="https://www.facebook.com/profile.php?id=100003523100497" target="_blank">
                             <i class="icon-facebook2"></i>
                         </a>
                     </div>
                     <h3>Send me a message
-                        <a href="https://www.facebook.com/profile.php?id=100003523100497"><span class="subtitle">@陳泓安</span></a>
+                        <a href="https://www.facebook.com/profile.php?id=100003523100497" target="_blank"><span class="subtitle">@陳泓安</span></a>
                     </h3>
                 </div>
             </div>

@@ -10,6 +10,30 @@ let mix = require('laravel-mix');
  | file for the application as well as bundling up all the JS files.
  |
  */
-
-mix.js('resources/assets/js/app.js', 'public/js')
-   .sass('resources/assets/sass/app.scss', 'public/css');
+mix.styles(
+    [
+        'public/css/internet_fonts.css',
+        'public/css/bootstrap.css',
+        'public/style.css',
+        'public/css/swiper.css',
+        'public/css/dark.css',
+        'public/css/font-icons.css',
+        'public/css/animate.css',
+        'public/css/magnific-popup.css',
+        'public/css/responsive.css'
+    ],
+    'public/css/all.css'
+);
+mix.js('resources/assets/js/app.js', 'public/js').sass(
+    'resources/assets/sass/app.scss',
+    'public/css'
+);
+mix.scripts(
+    [
+        'public/js/jquery.js',
+        'public/js/plugins.js',
+        'public/js/jquery.elimore.min.js',
+        'public/js/functions.js'
+    ],
+    'public/js/all.js'
+);
