@@ -19,7 +19,7 @@
                             <h4>Guitar</h4>
                             <span>Cultivate the Mind</span>
                         </div>
-                        <div class="team-content">Chinese songs are more alleviated, while English ones are more stimulated.</div>
+                        <div class="team-content">∣× ↑.↓ ↑↓↑↓ (↑↓↑↓) :∣</div>
                         <a href="#" class="social-icon si-rounded si-small si-youtube">
                             <i class="icon-youtube-play"></i>
                             <i class="icon-youtube-play"></i>
@@ -121,41 +121,7 @@
 
         <div class="clear"></div>
 
-        <div class="fancy-title title-border title-center topmargin-sm">
-            <h4>Skills I possess</h4>
-        </div>
 
-        <div class="col_one_fourth nobottommargin center">
-            <div class="rounded-skill" data-color="#D01C1C" data-size="150" data-percent="70" data-width="2" data-animate="3000">
-                <div class="counter counter-inherit">
-                    <span data-from="1" data-to="70" data-refresh-interval="50" data-speed="3000"></span>%</div>
-            </div>
-            <h5>React Native</h5>
-        </div>
-
-        <div class="col_one_fourth nobottommargin center">
-            <div class="rounded-skill" data-color="#1770A4" data-size="150" data-percent="60" data-width="2" data-animate="3000">
-                <div class="counter counter-inherit">
-                    <span data-from="1" data-to="60" data-refresh-interval="50" data-speed="3000"></span>%</div>
-            </div>
-            <h5>C++</h5>
-        </div>
-
-        <div class="col_one_fourth nobottommargin center">
-            <div class="rounded-skill" data-color="#6A89AA" data-size="150" data-percent="50" data-width="2" data-animate="3000">
-                <div class="counter counter-inherit">
-                    <span data-from="1" data-to="50" data-refresh-interval="50" data-speed="3000"></span>%</div>
-            </div>
-            <h5>HTML5</h5>
-        </div>
-
-        <div class="col_one_fourth nobottommargin center col_last">
-            <div class="rounded-skill" data-color="#248673" data-size="150" data-percent="30" data-width="2" data-animate="3000">
-                <div class="counter counter-inherit">
-                    <span data-from="1" data-to="30" data-refresh-interval="50" data-speed="3000"></span>%</div>
-            </div>
-            <h5>Algorithms</h5>
-        </div>
 
     </div>
 

@@ -8051,6 +8051,7 @@ body:not(.device-touch) .button.button-full strong {
 .process-steps.process-2 li { width: 50%; }
 .process-steps.process-3 li { width: 33.33%; }
 .process-steps.process-5 li { width: 20%; }
+.process-steps.process-6 li { width: 16.66%; }
 
 .process-steps li .i-circled { margin-bottom: 0 !important; }
 
@@ -9637,8 +9638,8 @@ body:not(.device-touch) .clients-grid li a {
 	font-style: italic;
 }
 
-.testi-content p:before,
-.testi-content p:after { content: '"'; }
+/* .testi-content p:before,
+.testi-content p:after { content: '"'; } */
 
 .testi-meta {
 	margin-top: 10px;

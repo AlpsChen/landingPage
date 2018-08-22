@@ -338,7 +338,7 @@
 
             <div class="col_one_fourth nobottommargin center col_last " data-animate="bounceIn" data-delay="600">
                 <i class="i-plain i-xlarge divcenter nobottommargin icon-line-cross "></i>
-                <div class="counter counter-lined ">∞</div>
+                <div class="counter counter-lined ">unknown</div>
                 <h5>Times of Errors</h5>
             </div>
 

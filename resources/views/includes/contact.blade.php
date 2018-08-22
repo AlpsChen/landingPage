@@ -14,12 +14,12 @@
             <div class="col_one_fourth">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <!-- <a href="#"> -->
-                        <i class="icon-home2"></i>
-                        <!-- </a> -->
+                        <a href="https://github.com/AlpsChen">
+                            <i class="icon-github-sign"></i>
+                        </a>
                     </div>
-                    <h3>Where I live
-                        <span class="subtitle">Taipei, Taiwan</span>
+                    <h3>My Repositories
+                        <span class="subtitle">@AlpsChen</span>
                     </h3>
                 </div>
             </div>
@@ -27,7 +27,7 @@
             <div class="col_one_fourth">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <a href="#">
+                        <a href="mailto:alpschen05@gmail.com">
                             <i class="icon-line-mail"></i>
                         </a>
                     </div>
@@ -53,7 +53,7 @@
             <div class="col_one_fourth col_last">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <a href="#">
+                        <a href="https://www.instagram.com/ck_tzuan__/">
                             <i class="icon-instagram2"></i>
                         </a>
                     </div>

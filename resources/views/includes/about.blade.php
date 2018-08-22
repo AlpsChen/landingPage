@@ -32,7 +32,7 @@
         <div class="col_one_third nobottommargin">
             <div class="feature-box media-box">
                 <div class="fbox-media">
-                    <img src="{{asset('images/home/about/math_application.png')}}" alt="ooooops">
+                    <img src="{{asset('images/home/about/app.png')}}" alt="ooooops">
                 </div>
                 <div class="fbox-desc">
                     <!-- <a href="#" data-href="#section-work"></a> -->

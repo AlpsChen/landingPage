@@ -83,7 +83,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#" data-href="#section-testimonials" data-offset="60">
+                                <a href="#" data-href="#section-coding">
                                     <div>Coding</div>
                                 </a>
                             </li>
@@ -147,7 +147,7 @@
 
                         <!-- Footer Widgets
 				============================================= -->
-                        <div class="footer-widgets-wrap clearfix">
+                        <!-- <div class="footer-widgets-wrap clearfix">
 
                             <div class="col_two_third">
 
@@ -350,111 +350,94 @@
                             </div>
 
                         </div>
-                        <!-- .footer-widgets-wrap end -->
+                        .footer-widgets-wrap end
 
-                    </div>
+                    </div> -->
 
-                    <!-- Copyrights
+                        <!-- Copyrights
 			============================================= -->
-                    <div id="copyrights">
+                        <div id="copyrights">
 
-                        <div class="container clearfix">
+                            <div class="container clearfix">
 
-                            <div class="col_half">
-                                Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.
-                                <br>
-                                <div class="copyright-links">
-                                    <a href="#">Terms of Use</a> /
-                                    <a href="#">Privacy Policy</a>
-                                </div>
-                            </div>
-
-                            <div class="col_half col_last tright">
-                                <div class="fright clearfix">
-                                    <a href="#" class="social-icon si-small si-borderless si-facebook">
-                                        <i class="icon-facebook"></i>
-                                        <i class="icon-facebook"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-twitter">
-                                        <i class="icon-twitter"></i>
-                                        <i class="icon-twitter"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-gplus">
-                                        <i class="icon-gplus"></i>
-                                        <i class="icon-gplus"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-pinterest">
-                                        <i class="icon-pinterest"></i>
-                                        <i class="icon-pinterest"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-vimeo">
-                                        <i class="icon-vimeo"></i>
-                                        <i class="icon-vimeo"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-github">
-                                        <i class="icon-github"></i>
-                                        <i class="icon-github"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-yahoo">
-                                        <i class="icon-yahoo"></i>
-                                        <i class="icon-yahoo"></i>
-                                    </a>
-
-                                    <a href="#" class="social-icon si-small si-borderless si-linkedin">
-                                        <i class="icon-linkedin"></i>
-                                        <i class="icon-linkedin"></i>
-                                    </a>
+                                <div class="col_half">
+                                    Copyrights &copy; 2018 All Rights Reserved by Hung-An Chen.
+                                    <br>
+                                    <div class="copyright-links">
+                                        <a href="https://www.freeprivacypolicy.com/privacy/view/60bbaa2398633724a6f0177dc23df2f5">Privacy Policy for my app</a>
+                                    </div>
                                 </div>
 
-                                <div class="clear"></div>
+                                <div class="col_half col_last tright">
+                                    <div class="fright clearfix">
+                                        <a href="https://www.facebook.com/profile.php?id=100003523100497" class="social-icon si-small si-borderless si-facebook">
+                                            <i class="icon-facebook"></i>
+                                            <i class="icon-facebook"></i>
+                                        </a>
 
-                                <i class="icon-envelope2"></i> info@canvas.com
-                                <span class="middot">&middot;</span>
-                                <i class="icon-headphones"></i> +91-11-6541-6369
-                                <span class="middot">&middot;</span>
-                                <i class="icon-skype2"></i> CanvasOnSkype
+                                        <a href="https://twitter.com/alpschen05" class="social-icon si-small si-borderless si-twitter">
+                                            <i class="icon-twitter"></i>
+                                            <i class="icon-twitter"></i>
+                                        </a>
+
+                                        <a href="mailto:alpschen05@gmail.com" class="social-icon si-small si-borderless si-gplus">
+                                            <i class="icon-gplus"></i>
+                                            <i class="icon-gplus"></i>
+                                        </a>
+
+                                        <a href="https://www.instagram.com/ck_tzuan__/" class="social-icon si-small si-borderless si-instagram">
+                                            <i class="icon-instagram2"></i>
+                                            <i class="icon-instagram2"></i>
+                                        </a>
+
+                                        <a href="https://github.com/AlpsChen" class="social-icon si-small si-borderless si-github">
+                                            <i class="icon-github"></i>
+                                            <i class="icon-github"></i>
+                                        </a>
+
+                                    </div>
+
+                                    <div class="clear"></div>
+
+                                    <i class="icon-envelope2"></i> alpschen@gmail.com
+                                    <span class="middot">&middot;</span>
+                                    <i class="icon-headphones"></i> +886-923-387-201
+                                </div>
+
                             </div>
 
                         </div>
-
-                    </div>
-                    <!-- #copyrights end -->
+                        <!-- #copyrights end -->
 
                 </footer>
                 <!-- #footer end -->
 
-            </div>
-            <!-- #wrapper end -->
+                </div>
+                <!-- #wrapper end -->
 
-            <!-- Go To Top
+                <!-- Go To Top
 	============================================= -->
-            <div id="gotoTop" class="icon-angle-up"></div>
+                <div id="gotoTop" class="icon-angle-up"></div>
 
-            <!-- External JavaScripts
+                <!-- External JavaScripts
 	============================================= -->
-            <script src="{{asset('js/jquery.js')}}"></script>
-            <script src="{{asset('js/plugins.js')}}"></script>
-            <script src="{{asset('js/jquery.elimore.min.js')}}"></script>
-            <script>
-                $(function () {
-                    $(".desc").elimore({
-                        maxLength: 170,
-                        moreText: " Read More",
-                        lessText: " Read Less"
+                <script src="{{asset('js/jquery.js')}}"></script>
+                <script src="{{asset('js/plugins.js')}}"></script>
+                <script src="{{asset('js/jquery.elimore.min.js')}}"></script>
+                <script>
+                    $(function () {
+                        $(".desc").elimore({
+                            maxLength: 170,
+                            moreText: " Read More",
+                            lessText: " Read Less"
+                        });
                     });
-                });
 
-            </script>
+                </script>
 
-            <!-- Footer Scripts
+                <!-- Footer Scripts
 	============================================= -->
-            <script src="{{asset('js/functions.js')}}"></script>
+                <script src="{{asset('js/functions.js')}}"></script>
 
 </body>
 

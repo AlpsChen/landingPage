@@ -124,7 +124,7 @@
 
         <div class="clear"></div>
 
-        <div class="divider divider-center ">
+        <div class="divider divider-center " style="margin-top:120px; margin-bottom:60px">
             <i class="icon-phone"></i>
         </div>
     </div>
