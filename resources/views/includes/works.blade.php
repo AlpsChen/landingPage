@@ -303,15 +303,11 @@
         </div>
         <!-- #portfolio end -->
 
-        <div class="divider divider-center">
-            <i class="icon-code"></i>
-        </div>
-
     </div>
 
 
 
-    <div class="section parallax nobottommargin" style="padding: 80px 0;" data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+    <div class="section parallax nobottommargin" style="padding: 0px 0;" data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
 
         <div class="container clearfix ">
 
@@ -346,29 +342,10 @@
         <br>
         <br>
         <br>
-        <!-- <div class="heading-block center ">
-            <h2>Our Works</h2>
-            <span>Some of the Awesome Projects we've worked on.</span>
+        <div class="divider divider-center">
+            <i class="icon-code"></i>
         </div>
 
-        <ul class="process-steps bottommargin clearfix ">
-            <li>
-                <a href="# " class="i-circled i-alt divcenter icon-shopping-cart "></a>
-                <h5>找題目</h5>
-            </li>
-            <li>
-                <a href="# " class="i-circled i-alt divcenter icon-shopping-cart "></a>
-                <h5>選框架</h5>
-            </li>
-            <li class="active ">
-                <a href="# " class="i-circled i-alt divcenter bgcolor icon-shopping-cart "></a>
-                <h5>熬夜幹</h5>
-            </li>
-            <li>
-                <a href="# " class="i-circled i-alt divcenter icon-shopping-cart "></a>
-                <h5>展成果</h5>
-            </li>
-        </ul> -->
 
     </div>
 

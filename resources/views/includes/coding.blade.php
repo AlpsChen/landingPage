@@ -6,31 +6,31 @@
 
 	<ul class="process-steps process-6 bottommargin clearfix ">
 		<li class="active">
-			<a href="#" data-href="#section_1" class="i-circled i-alt divcenter icon-shopping-cart "></a>
+			<a href="#" data-scrollto="#div-1" class="i-circled i-alt divcenter">1</a>
 			<h5>The Initial Days</h5>
 		</li>
 		<li>
-			<a href="#" class="i-circled i-alt divcenter icon-shopping-cart "></a>
-			<h5>Debugging</h5>
+			<a href="#" data-scrollto="#div-2" class="i-circled i-alt divcenter">2</a>
+			<h5>Debugging Hell</h5>
 		</li>
 		<li>
-			<a href="#" class="i-circled i-alt divcenter icon-shopping-cart "></a>
-			<h5>Database</h5>
+			<a href="#" data-scrollto="#div-3" class="i-circled i-alt divcenter">3</a>
+			<h5>My Database</h5>
 		</li>
 		<li>
-			<a href="#" class="i-circled i-alt divcenter icon-shopping-cart "></a>
-			<h5>Website</h5>
+			<a href="#" data-scrollto="#div-4" class="i-circled i-alt divcenter">4</a>
+			<h5>The Submitter</h5>
 		</li>
 		<li>
-			<a href="#" class="i-circled i-alt divcenter icon-shopping-cart "></a>
-			<h5>Finally!</h5>
+			<a href="#" data-scrollto="#div-5" class="i-circled i-alt divcenter">5</a>
+			<h5>Finally</h5>
 		</li>
 		<li>
-			<a href="# " class="i-circled i-alt divcenter icon-shopping-cart "></a>
-			<h5>Presentation</h5>
+			<a href="#" data-scrollto="#div-6" class="i-circled i-alt divcenter">6</a>
+			<h5>Promotion</h5>
 		</li>
 	</ul>
-	<section id="section_1" class="page-section section parallax" style="background: url('images/home/coding/1.png');background-size: 1500px; padding: 200px 0; margin-bottom:-35px"
+	<section id="div-1" class="page-section section parallax dark" style="background: url('images/home/coding/1.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8); background-size: 1500px; padding: 200px 0; margin-bottom:-35px"
 	 data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
 
 		<div class="container clearfix">
@@ -41,11 +41,9 @@
 
 				<div class="heading-block center">
 					<h4>
-						<mark style="background-color: #1ABC9C; color:white">The Initial Days</mark>
+						The Initial Days
 					</h4>
-					<span>
-                        <mark style=" background-color: #1ABC9C; color:white">Setting off for my application!</mark>
-                    </span>
+					<span>Setting off for my application!</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding " data-arrows="false">
@@ -53,24 +51,24 @@
 						<div class="slider-wrap ">
 							<div class="slide">
 								<div class="testi-content">
-									<p style="color:#1ABC9C ">"Displays the modifications immediately. An indispensable friend."</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
+									<p>"Displays the modifications immediately. An indispensable friend."</p>
+									<div class="testi-meta ">
 										iOS Simulator
 									</div>
 								</div>
 							</div>
 							<div class="slide ">
 								<div class="testi-content ">
-									<p style="color:#1ABC9C ">"Consolidates the run time for my app. The heart."</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
+									<p>"Consolidates the run time for my app. The heart."</p>
+									<div class="testi-meta ">
 										JavaScript Bundler
 									</div>
 								</div>
 							</div>
 							<div class="slide ">
 								<div class="testi-content ">
-									<p style="color:#1ABC9C ">"The pivot of file editing and the bridge to real devices."</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
+									<p>"The pivot of file editing and the bridge to real devices."</p>
+									<div class="testi-meta ">
 										Xcode
 									</div>
 								</div>
@@ -84,7 +82,7 @@
 		</div>
 
 	</section>
-	<section id="2" class="page-section section parallax" style="background: url( 'images/home/coding/2.png'); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
+	<section id="div-2" class="page-section section parallax dark" style="background: url( 'images/home/coding/2.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
 	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px -300px; ">
 
 		<div class="container clearfix ">
@@ -94,12 +92,8 @@
 			<div class="col_half nobottommargin col_last ">
 
 				<div class="heading-block center dark">
-					<h4>
-						<mark style="background-color: red">Debugging Hell</mark>
-					</h4>
-					<span>
-                        <mark style="background-color: red">Starting to doubt your life.</mark>
-                    </span>
+					<h4>Debugging Hell</h4>
+					<span>Starting to doubt your life.</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding" data-arrows="false">
@@ -108,12 +102,11 @@
 							<div class="slide ">
 								<div class="testi-content dark">
 									<p>
-										<mark style="background-color:red">"Accidently modifying an unknown file, I crashed my entire application. Things went
-                                            chaos. I had to restart a whole new project and reinstall all the packages, which
-                                            resulted in a painful lesson. (The stupid me didn't implement revision control.)"</mark>
+										"Accidently modifying an unknown file, I crashed my entire application. Things went chaos. I had to restart a whole new project
+										and reinstall all the packages, which resulted in a painful lesson. (The stupid me didn't implement revision control.)"
 									</p>
 									<div class="testi-meta">
-										<mark style="background-color:red">My Words</mark>
+										Me
 									</div>
 								</div>
 							</div>
@@ -126,7 +119,7 @@
 		</div>
 
 	</section>
-	<section id="3" class="page-section section parallax" style="background: url( 'images/home/coding/3.png'); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
+	<section id="div-3" class="page-section section parallax dark" style="background: url( 'images/home/coding/3.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
 	 data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
 
 		<div class="container clearfix ">
@@ -161,7 +154,7 @@
 		</div>
 
 	</section>
-	<section id="4" class="page-section section parallax" style="background: url( 'images/home/coding/4.png'); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
+	<section id="div-4" class="page-section section parallax dark" style="background: url( 'images/home/coding/4.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8); background-size:1500px; padding: 200px 0; margin-bottom:-35px"
 	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px -300px; ">
 
 		<div class="container clearfix ">
@@ -198,9 +191,7 @@
 		</div>
 
 	</section>
-
-
-	<section id="5" class="page-section section parallax" style="background: url( 'images/home/coding/5.png');background-size:1500px; padding: 200px 0; margin-bottom:-35px"
+	<section id="div-5" class="page-section section parallax dark" style="background: url( 'images/home/coding/5.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8);background-size:1500px; padding: 200px 0; margin-bottom:-35px"
 	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px -300px; ">
 
 		<div class="container clearfix">
@@ -210,12 +201,10 @@
 			<div class="col_half nobottommargin col_last">
 
 				<div class="heading-block center">
-					<h4 style="color:white">
-						<mark style="background-color:orange; color:white">Finally</mark>
+					<h4>
+						Finally
 					</h4>
-					<span>
-                        <mark style="background-color:orange; color:white">Wanna give it a shot?</mark>
-                    </span>
+					<span>Wanna give it a shot?</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding" data-arrows="false">
@@ -223,32 +212,32 @@
 						<div class="slider-wrap">
 							<div class="slide">
 								<div class="testi-content">
-									<p style="color:orange">"Currently available only on Google Play. Why?"</p>
-									<div class="testi-meta" style="color:orange">
+									<p>"Currently available only on Google Play. Why?"</p>
+									<div class="testi-meta">
 										User 1
 									</div>
 								</div>
 							</div>
 							<div class="slide">
 								<div class="testi-content">
-									<p style="color:orange">"You need to be 18+"</p>
-									<div class="testi-meta " style="color:orange">
+									<p>"You need to be 18+"</p>
+									<div class="testi-meta ">
 										Manager 1 from the App Store
 									</div>
 								</div>
 							</div>
 							<div class="slide">
 								<div class="testi-content">
-									<p style="color:orange">"You need to prepare a lot of money."</p>
-									<div class="testi-meta " style="color:orange">
+									<p>"You need to prepare a lot of money."</p>
+									<div class="testi-meta ">
 										Manager 2 from the App Store
 									</div>
 								</div>
 							</div>
 							<div class="slide">
 								<div class="testi-content">
-									<p style="color:orange">"SHUT UP"</p>
-									<div class="testi-meta " style="color:orange">
+									<p>"SHUT UP"</p>
+									<div class="testi-meta ">
 										Manager 1 from the App Store
 									</div>
 								</div>
@@ -262,22 +251,19 @@
 		</div>
 
 	</section>
-	<section id="6" class="page-section section parallax dark " style="background: url( 'images/home/coding/6.jpg');background-size:1500px; padding: 200px 0;"
+	<section id="div-6" class="page-section section parallax dark " style="background: url( 'images/home/coding/6.jpg');background-size:1500px; padding: 200px 0;"
 	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px -300px;">
 
 		<div class="container clearfix ">
 
-			<div class="col_half nobottommargin ">&nbsp;</div>
+			{{--
+			<div class="col_half nobottommargin ">&nbsp;</div> --}}
 
 			<div class="col_half nobottommargin col_last ">
 
 				<div class="heading-block center ">
-					<h4>
-						<mark style="background-color: #1ABC9C ">Promotion</mark>
-					</h4>
-					<span>
-                        <mark style="background-color: #1ABC9C ">Presenting my app to six different companies!</mark>
-                    </span>
+					<h4>Promotion</h4>
+					<span>Presenting my app to six different companies!</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding " data-arrows="false">
@@ -285,8 +271,8 @@
 						<div class="slider-wrap ">
 							<div class="slide ">
 								<div class="testi-content ">
-									<p style="color:#1ABC9C ">Displays the modifications immediately. An indispensable friend.</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
+									<p>Displays the modifications immediately. An indispensable friend.</p>
+									<div class="testi-meta ">
 										iOS Simulator
 									</div>
 								</div>

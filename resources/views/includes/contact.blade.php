@@ -19,7 +19,7 @@
                         </a>
                     </div>
                     <h3>My Repositories
-                        <span class="subtitle">@AlpsChen</span>
+                        <a href="https://github.com/AlpsChen"><span class="subtitle">@AlpsChen</span></a>
                     </h3>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                         </a>
                     </div>
                     <h3>Send me a mail
-                        <span class="subtitle">alpschen05@gmail.com</span>
+                        <a href="mailto:alpschen05@gmail.com"><span class="subtitle">alpschen05@gmail.com</span></a>
                     </h3>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         </a>
                     </div>
                     <h3>Send me a message
-                        <span class="subtitle">@陳泓安</span>
+                        <a href="https://www.facebook.com/profile.php?id=100003523100497"><span class="subtitle">@陳泓安</span></a>
                     </h3>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                         </a>
                     </div>
                     <h3>Follow me
-                        <span class="subtitle">@ck_tzuan__</span>
+                        <a href="https://www.instagram.com/ck_tzuan__/"><span class="subtitle">@ck_tzuan__</span></a>
                     </h3>
                 </div>
             </div>

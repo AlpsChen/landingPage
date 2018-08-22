@@ -34,8 +34,7 @@
     <div id="wrapper" class="clearfix">
 
         <div id="home" class="page-section" style="position:absolute;top:0;left:0;width:100%;height:200px;z-index:-2;"></div>
-
-        @include('includes.slider')
+    @include('includes.slider')
 
         <!-- Header
 		============================================= -->
@@ -107,15 +106,7 @@
 
                         <!-- Top Search
 						============================================= -->
-                        <div id="top-search">
-                            <a href="#" id="top-search-trigger">
-                                <i class="icon-search3"></i>
-                                <i class="icon-line-cross"></i>
-                            </a>
-                            <form action="search.html" method="get">
-                                <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
-                            </form>
-                        </div>
+
                         <!-- #top-search end -->
 
                     </nav>
@@ -135,9 +126,12 @@
         <section id="content">
 
             <div class="content-wrap">
-
-                @include('includes.about') @include('includes.works') @include('includes.coding') @include('includes.hobbies') @include('includes.research-map')
-                @include('includes.contact')
+    @include('includes.about')
+    @include('includes.works')
+    @include('includes.coding')
+    @include('includes.hobbies')
+    @include('includes.research-map')
+    @include('includes.contact')
 
                 <!-- Footer
 		============================================= -->
@@ -432,7 +426,6 @@
                             lessText: " Read Less"
                         });
                     });
-
                 </script>
 
                 <!-- Footer Scripts
