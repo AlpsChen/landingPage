@@ -125,10 +125,10 @@
 
     </div>
 
-    <div class="section parallax" style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;" data-bottom-top="background-position:0px 100px;"
-        data-top-bottom="background-position:0px -100px;">
+    <div class="section parallax dark" style="background-image: url('images/home/hobbies/5.png'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.8); background-size:1600px; padding: 100px 0;"
+        data-bottom-top="background-position:0px -100px;" data-top-bottom="background-position:0px 200px;">
         <div class="heading-block center nobottomborder nobottommargin">
-            <h2>"Everything is designed, but some things are designed well."</h2>
+            <h2>"I love, definitely, to code at anywhere, and in anytime."</h2>
         </div>
     </div>
 

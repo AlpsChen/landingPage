@@ -4,7 +4,7 @@
 
         <div class="swiper-container swiper-parent">
             <div class="swiper-wrapper">
-                <div class="swiper-slide dark" style="background-image: url('images/home/slider/1-2.jpg');">
+                <div class="swiper-slide dark" style="background-image: url('images/home/slider/1.jpg');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
                             <h2 data-caption-animate="fadeInUp">您好 ¡Hola!</h2>
@@ -15,7 +15,7 @@
                 <div class="swiper-slide dark">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">My Home Country</h2>
+                            <h2 data-caption-animate="fadeInUp">Taiwan</h2>
                             <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">I live in a magnificent place with a miraculous family.</p>
                         </div>
                     </div>

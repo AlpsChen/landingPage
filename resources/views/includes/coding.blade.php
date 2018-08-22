@@ -5,28 +5,28 @@
 	</div>
 
 	<ul class="process-steps process-6 bottommargin clearfix ">
-		<li class="active">
+		<li>
 			<a href="#" data-scrollto="#div-1" class="i-circled i-alt divcenter">1</a>
 			<h5>The Initial Days</h5>
 		</li>
 		<li>
-			<a href="#" data-scrollto="#div-2" class="i-circled i-alt divcenter">2</a>
+			<a href="#" data-scrollto="#div-2" class="i-circled i-alt divcenter" data-offset="60">2</a>
 			<h5>Debugging Hell</h5>
 		</li>
 		<li>
-			<a href="#" data-scrollto="#div-3" class="i-circled i-alt divcenter">3</a>
+			<a href="#" data-scrollto="#div-3" class="i-circled i-alt divcenter" data-offset="60">3</a>
 			<h5>My Database</h5>
 		</li>
 		<li>
-			<a href="#" data-scrollto="#div-4" class="i-circled i-alt divcenter">4</a>
+			<a href="#" data-scrollto="#div-4" class="i-circled i-alt divcenter" data-offset="60">4</a>
 			<h5>The Submitter</h5>
 		</li>
 		<li>
-			<a href="#" data-scrollto="#div-5" class="i-circled i-alt divcenter">5</a>
+			<a href="#" data-scrollto="#div-5" class="i-circled i-alt divcenter" data-offset="60">5</a>
 			<h5>Finally</h5>
 		</li>
 		<li>
-			<a href="#" data-scrollto="#div-6" class="i-circled i-alt divcenter">6</a>
+			<a href="#" data-scrollto="#div-6" class="i-circled i-alt divcenter" data-offset="60">6</a>
 			<h5>Promotion</h5>
 		</li>
 	</ul>
@@ -196,7 +196,8 @@
 
 		<div class="container clearfix">
 
-			<div class="col_half nobottommargin ">&nbsp;</div>
+			{{--
+			<div class="col_half nobottommargin ">&nbsp;</div> --}}
 
 			<div class="col_half nobottommargin col_last">
 
@@ -251,19 +252,18 @@
 		</div>
 
 	</section>
-	<section id="div-6" class="page-section section parallax dark " style="background: url( 'images/home/coding/6.jpg');background-size:1500px; padding: 200px 0;"
-	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px -300px;">
+	<section id="div-6" class="page-section section parallax dark " style="background: url( 'images/home/coding/6.jpg'); box-shadow:inset 0 0 0 1000px rgba(20,20,20,0.2); background-size:1500px; padding: 200px 0;"
+	 data-bottom-top="background-position:0px 300px; " data-top-bottom="background-position:0px 0px;">
 
 		<div class="container clearfix ">
 
-			{{--
-			<div class="col_half nobottommargin ">&nbsp;</div> --}}
+			<div class="col_half nobottommargin ">&nbsp;</div>
 
 			<div class="col_half nobottommargin col_last ">
 
 				<div class="heading-block center ">
 					<h4>Promotion</h4>
-					<span>Presenting my app to six different companies!</span>
+					<span>Presenting my app in six different companies!<br>Standing beside me is Professor Fuh from<br>National Taiwan University</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding " data-arrows="false">
@@ -271,25 +271,25 @@
 						<div class="slider-wrap ">
 							<div class="slide ">
 								<div class="testi-content ">
-									<p>Displays the modifications immediately. An indispensable friend.</p>
+									<p>"I really like your presentation. I like it being simple and pretty."</p>
 									<div class="testi-meta ">
-										iOS Simulator
+										熊暉Kuma<span>an illustrious CEO in Asia</span>
 									</div>
 								</div>
 							</div>
 							<div class="slide ">
 								<div class="testi-content ">
-									<p style="color:#1ABC9C ">Consolidates the run time for my app. The heart.</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
-										JavaScript Bundler
+									<p>"Impressive! I almost forgot that you are only a high school student."</p>
+									<div class="testi-meta ">
+										An Executive in D8AI Inc.
 									</div>
 								</div>
 							</div>
 							<div class="slide ">
 								<div class="testi-content ">
-									<p style="color:#1ABC9C ">The pivot of file editing and the bridge to real devices.</p>
-									<div class="testi-meta " style="color:#1ABC9C ">
-										Xcode
+									<p>"How did you learn English? You speak so well!"</p>
+									<div class="testi-meta ">
+										Another Audience</span>
 									</div>
 								</div>
 							</div>

@@ -15,6 +15,24 @@
 	============================================= -->
     <title>陳泓安Alps Chen</title>
 
+    <!-- 由 Google 結構化資料標記協助工具產生的 JSON-LD 標記。 -->
+    <script type="application/ld+json">
+        {
+      "@context" : "http://schema.org",
+      "@type" : "Article",
+      "name" : "陳泓安 Hung-An Chen",
+      "author" : {
+        "@type" : "Person",
+        "name" : "Alps Chen"
+      },
+      "articleBody" : [ "會考會考的數學", "2017 Microfims &amp; Informations camp.", "Taipei Municipal Jianguo High School" ],
+      "publisher" : {
+        "@type" : "Organization",
+        "name" : "陳泓安"
+      }
+    }
+    </script>
+
 </head>
 
 <body class="stretched">
