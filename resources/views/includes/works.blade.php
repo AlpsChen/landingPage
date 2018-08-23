@@ -3,7 +3,7 @@
         <h2>My App</h2>
         <span>Now Available in Play Store!
             <br>
-            <a href="https://play.google.com/store/apps/details?id=tech.alpschen.mathApp">Check it Out!</a>
+            <a href="https://play.google.com/store/apps/details?id=tech.alpschen.mathApp" target="_blank">Check it Out!</a>
         </span>
     </div>
     <div class="container clearfix center">

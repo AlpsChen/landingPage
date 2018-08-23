@@ -134,6 +134,7 @@
         <section id="content">
 
             <div class="content-wrap">
+    @include('includes.videos')
     @include('includes.about')
     @include('includes.works')
     @include('includes.coding')
@@ -366,18 +367,18 @@
                                     Copyrights &copy; 2018 All Rights Reserved by Hung-An Chen.
                                     <br>
                                     <div class="copyright-links">
-                                        <a href="https://www.freeprivacypolicy.com/privacy/view/60bbaa2398633724a6f0177dc23df2f5">Privacy Policy for my app</a>
+                                        <a href="https://www.freeprivacypolicy.com/privacy/view/60bbaa2398633724a6f0177dc23df2f5" target="_blank">Privacy Policy for my app</a>
                                     </div>
                                 </div>
 
                                 <div class="col_half col_last tright">
                                     <div class="fright clearfix">
-                                        <a href="https://www.facebook.com/profile.php?id=100003523100497" class="social-icon si-small si-borderless si-facebook">
+                                        <a href="https://www.facebook.com/profile.php?id=100003523100497" target="_blank" class="social-icon si-small si-borderless si-facebook">
                                             <i class="icon-facebook"></i>
                                             <i class="icon-facebook"></i>
                                         </a>
 
-                                        <a href="https://twitter.com/alpschen05" class="social-icon si-small si-borderless si-twitter">
+                                        <a href="https://twitter.com/alpschen05" target="_blank" class="social-icon si-small si-borderless si-twitter">
                                             <i class="icon-twitter"></i>
                                             <i class="icon-twitter"></i>
                                         </a>
@@ -387,12 +388,12 @@
                                             <i class="icon-gplus"></i>
                                         </a>
 
-                                        <a href="https://www.instagram.com/ck_tzuan__/" class="social-icon si-small si-borderless si-instagram">
+                                        <a href="https://www.instagram.com/ck_tzuan__/" target="_blank" class="social-icon si-small si-borderless si-instagram">
                                             <i class="icon-instagram2"></i>
                                             <i class="icon-instagram2"></i>
                                         </a>
 
-                                        <a href="https://github.com/AlpsChen" class="social-icon si-small si-borderless si-github">
+                                        <a href="https://github.com/AlpsChen" target="_blank" class="social-icon si-small si-borderless si-github">
                                             <i class="icon-github"></i>
                                             <i class="icon-github"></i>
                                         </a>

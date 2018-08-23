@@ -14,12 +14,12 @@
             <div class="col_one_fourth">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <a href="https://github.com/AlpsChen">
+                        <a href="https://github.com/AlpsChen" target="_blank">
                             <i class="icon-github-sign"></i>
                         </a>
                     </div>
                     <h3>My Repositories
-                        <a href="https://github.com/AlpsChen"><span class="subtitle">@AlpsChen</span></a>
+                        <a href="https://github.com/AlpsChen" target="_blank"><span class="subtitle">@AlpsChen</span></a>
                     </h3>
                 </div>
             </div>
@@ -53,12 +53,12 @@
             <div class="col_one_fourth col_last">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
-                        <a href="https://www.instagram.com/ck_tzuan__/">
+                        <a href="https://www.instagram.com/ck_tzuan__/" target="_blank">
                             <i class="icon-instagram2"></i>
                         </a>
                     </div>
                     <h3>Follow me
-                        <a href="https://www.instagram.com/ck_tzuan__/"><span class="subtitle">@ck_tzuan__</span></a>
+                        <a href="https://www.instagram.com/ck_tzuan__/" target="_blank"><span class="subtitle">@ck_tzuan__</span></a>
                     </h3>
                 </div>
             </div>
