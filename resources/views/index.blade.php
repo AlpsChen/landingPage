@@ -20,14 +20,14 @@
     <meta property="og:title" content="陳泓安 Alps" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://alpschen.tech" />
-    <meta property="og:image" content="url('images/home/slider/1.jpg')" />
+    <meta property="og:image" content="/images/home/slider/1.jpg" />
     <meta property="og:description" content="Welcome to the domain for Alps! 歡迎來到我的個人網站！" />
     <meta name="description" content="Welcome to the domain for Alps! 歡迎來到我的個人網站！" />
 
     <!-- Favicon
     ============================================= -->
-    <link rel="shortcut icon" href="https://alpschen.tech/images/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://alpschen.tech/images/a.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/images/a.ico" type="image/x-icon">
 
     <!-- 由 Google 結構化資料標記協助工具產生的 JSON-LD 標記。 -->
     <script type="application/ld+json">
