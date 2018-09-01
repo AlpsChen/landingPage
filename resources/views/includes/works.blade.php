@@ -12,7 +12,7 @@
         <div id="portfolio" class="portfolio grid-container portfolio-nomargin clearfix">
             <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/1.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay" data-lightbox="gallery">
@@ -27,7 +27,7 @@
                         <a href="{{asset('images/home/works/7.png')}}" class="hidden" data-lightbox="gallery-item"></a>
                         <a href="{{asset('images/home/works/8.png')}}" class="hidden" data-lightbox="gallery-item"></a>
                     </div>
-                    <!-- <a href="portfolio-single.html" class="right-icon">
+                    <!-- <a href="#" class="right-icon">
                             <i class="icon-line-ellipsis"></i>
                         </a> -->
                 </div>
@@ -44,7 +44,7 @@
 
             <article class="portfolio-item pf-illustrations">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/login.png')}}" alt="oooops">
                     </a>
                     <div class="portfolio-overlay" data-lightbox="gallery">
@@ -64,7 +64,7 @@
 
             <article class="portfolio-item pf-graphics pf-uielements">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/welcome.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -87,7 +87,7 @@
 
             <article class="portfolio-item pf-icons pf-illustrations">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/mode.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -109,7 +109,7 @@
 
             <article class="portfolio-item pf-uielements pf-media">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/question.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -131,7 +131,7 @@
 
             <article class="portfolio-item pf-graphics pf-illustrations">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/question2.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -154,7 +154,7 @@
 
             <article class="portfolio-item pf-uielements pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/scoring.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -177,7 +177,7 @@
 
             <article class="portfolio-item pf-graphics">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="{{asset('images/home/works/review.png')}}" alt="ooooops">
                     </a>
                     <div class="portfolio-overlay">
@@ -215,7 +215,7 @@
                 </div>
                 <div class="portfolio-desc">
                     <h3>
-                        <a href="portfolio-single.html">Bridge Side</a>
+                        <a href="#">Bridge Side</a>
                     </h3>
                     <span>
                         <a href="#">Illustrations</a>,
@@ -251,21 +251,21 @@
 
             <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
+                    <a href="#">
                         <img src="images/portfolio/4/11.jpg" alt="Workspace Stuff">
                     </a>
                     <div class="portfolio-overlay">
                         <a href="images/portfolio/full/11.jpg" class="left-icon" data-lightbox="image">
                             <i class="icon-line-plus"></i>
                         </a>
-                        <a href="portfolio-single.html" class="right-icon">
+                        <a href="#" class="right-icon">
                             <i class="icon-line-ellipsis"></i>
                         </a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
                     <h3>
-                        <a href="portfolio-single.html">Workspace Stuff</a>
+                        <a href="#">Workspace Stuff</a>
                     </h3>
                     <span>
                         <a href="#">Media</a>,

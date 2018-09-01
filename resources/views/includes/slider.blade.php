@@ -7,8 +7,8 @@
                 <div class="swiper-slide dark" style="background-image: url('images/home/slider/1.jpg');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">您好 ¡Hola!</h2>
-                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">我是陳泓安。I'm Hung-An Chen.</p>
+                            <h2 data-caption-animate="fadeInUp">泓安 Alps</h2>
+                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">您好 ¡Hola!</p>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                             <h2 data-caption-animate="fadeInUp">The Alps</h2>
                             <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200" style="color:white">My parents named me Alps,
                                 <br>owing to Mom’s pregnancy
-                                <br>during the trip to Alps.</p>
+                                <br>during the trip to the Alps.</p>
                         </div>
                     </div>
                 </div>
