@@ -26,8 +26,9 @@
 
     <!-- Favicon
     ============================================= -->
-    <link rel="shortcut icon" href="https://alpschen.tech/images/a.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="/images/a.ico" type="image/x-icon">
+    {{--
+    <link rel="shortcut icon" href="https://alpschen.tech/images/a.ico" type="image/x-icon" /> --}}
+    <link rel="shortcut icon" href="/images/a.ico">
 
     <!-- 由 Google 結構化資料標記協助工具產生的 JSON-LD 標記。 -->
     <script type="application/ld+json">

@@ -11,19 +11,21 @@
         <div class="container clearfix">
 
             <div class="col_half">
-                <h3>尚恩出擊</h3>
+                <h3>
+                    <span>Ultimate Guide</span> to React Native Quiz App</h3>
                 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-                    <iframe src="https://www.youtube.com/embed/SZEflIVnhH8" frameborder="0" allowfullscreen="" id="fitvid1" allow="autoplay"></iframe>
+                    <embed src="{{asset('images/home/React Native Quiz App.pdf')}}" type="application/pdf" />
                 </div>
             </div>
 
             <div class="col_half col_last">
-                <h3>My
-                    <span>presentation</span> in 6 companies</h3>
+                <h3>
+                    <span>Presentations</span> at 6 Companies</h3>
                 {{--
                 <h5>Go to Coding for more information.</h5> --}}
                 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-                    <iframe src="https://www.youtube.com/embed/SZEflIVnhH8" frameborder="0" allowfullscreen="" id="fitvid1"></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y3C4779Cww" frameborder="0" allow="autoplay; encrypted-media"
+                        allowfullscreen></iframe>
                 </div>
             </div>
 
