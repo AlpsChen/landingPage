@@ -57,7 +57,7 @@
                 </div>
                 <div class="fbox-desc">
                     <h3>My summer camp
-                        <span class="subtitle">2017 Microfims & Informations camp.</span>
+                        <span class="subtitle">2017 Microfims & Informatics Camp.</span>
                     </h3>
                     <p class="desc">The summer camp took place in Jieshou Junior High School, an aboriginal school in a township in Taiwan.
                         I organized the camp with my friends in my high school. Our target was to spread the seed of Informatics

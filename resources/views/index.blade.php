@@ -112,8 +112,8 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#" data-href="#section-hobby">
-                                    <div>Hobbies</div>
+                                <a href="#" data-href="#section-activities">
+                                    <div>Activities</div>
                                 </a>
                             </li>
                             <li>
@@ -155,7 +155,7 @@
     @include('includes.about')
     @include('includes.works')
     @include('includes.coding')
-    @include('includes.hobbies')
+    @include('includes.activities')
     @include('includes.research-map')
     @include('includes.contact')
 

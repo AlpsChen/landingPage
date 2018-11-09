@@ -15,15 +15,15 @@
 		</li>
 		<li>
 			<a href="#" data-scrollto="#div-3" class="i-circled i-alt divcenter" data-offset="60">3</a>
-			<h5>My Database</h5>
+			<h5>Database</h5>
 		</li>
 		<li>
 			<a href="#" data-scrollto="#div-4" class="i-circled i-alt divcenter" data-offset="60">4</a>
-			<h5>The Submitter</h5>
+			<h5>Uploader</h5>
 		</li>
 		<li>
 			<a href="#" data-scrollto="#div-5" class="i-circled i-alt divcenter" data-offset="60">5</a>
-			<h5>Finally</h5>
+			<h5>Google Play</h5>
 		</li>
 		<li>
 			<a href="#" data-scrollto="#div-6" class="i-circled i-alt divcenter" data-offset="60">6</a>
@@ -130,11 +130,9 @@
 
 				<div class="heading-block center ">
 					<h4>
-						My Database
+						Database
 					</h4>
-					<span>
-                        Saved in JSON format in Firebase
-                    </span>
+					<span>Saved in JSON format in Firebase</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding " data-arrows="false">
@@ -142,7 +140,7 @@
 						<div class="slider-wrap ">
 							<div class="slide ">
 								<div class="testi-content ">
-									<p>"Take a look at an ugly form of the problems and the users."</p>
+									<p>"Take a look at an ugly form of the math questions and the users."</p>
 								</div>
 							</div>
 						</div>
@@ -164,8 +162,8 @@
 			<div class="col_half nobottommargin col_last ">
 
 				<div class="heading-block center">
-					<h4>The Submitter</h4>
-					<span>Where to upload the math problems?</span>
+					<h4>The Math Question Uploader Website</h4>
+					<span>Where to upload the math questions?</span>
 				</div>
 
 				<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding" data-arrows="false">
@@ -174,11 +172,10 @@
 							<div class="slide ">
 								<div class="testi-content">
 									<p>"It's impossible to directly modify the data via the interface of Firebase. Therefore, I created this simple and
-										monotonous website for the teachers to upload their math problems conveniently. It's made with ReactJS, the brother
+										monotonous website for the teachers to upload their math questions conveniently. It's made with ReactJS, the brother
 										of React Native, and is used for building websites excluding 'this one'.</p>
 									<div class="testi-meta">
-										“The Website of Secrets"
-										<span>Not accessible currently XD</span>
+										“forms.alpschen.tech"
 									</div>
 								</div>
 							</div>
@@ -309,7 +306,7 @@
 	<div class="col_one_fourth nobottommargin center">
 		<div class="rounded-skill" data-color="#D01C1C" data-size="150" data-percent="70" data-width="2" data-animate="3000">
 			<div class="counter counter-inherit ">
-				<span data-from="1" data-to="70" data-refresh-interval="50 " data-speed="3000 "></span>%</div>
+				<span data-from="1" data-to="80" data-refresh-interval="50 " data-speed="3000 "></span>%</div>
 		</div>
 		<h5>React Native</h5>
 	</div>
@@ -317,7 +314,7 @@
 	<div class="col_one_fourth nobottommargin center ">
 		<div class="rounded-skill " data-color="#1770A4" data-size="150" data-percent="60" data-width="2" data-animate="3000">
 			<div class="counter counter-inherit ">
-				<span data-from="1" data-to="60" data-refresh-interval="50" data-speed="3000"></span>%</div>
+				<span data-from="1" data-to="70" data-refresh-interval="50" data-speed="3000"></span>%</div>
 		</div>
 		<h5>C++</h5>
 	</div>
@@ -325,7 +322,7 @@
 	<div class="col_one_fourth nobottommargin center ">
 		<div class="rounded-skill " data-color="#6A89AA" data-size="150" data-percent="50" data-width="2" data-animate="3000">
 			<div class="counter counter-inherit ">
-				<span data-from="1" data-to="50" data-refresh-interval="50" data-speed="3000"></span>%</div>
+				<span data-from="1" data-to="60" data-refresh-interval="50" data-speed="3000"></span>%</div>
 		</div>
 		<h5>HTML5</h5>
 	</div>
@@ -333,7 +330,7 @@
 	<div class="col_one_fourth nobottommargin center col_last">
 		<div class="rounded-skill " data-color="#248673" data-size="150" data-percent="30" data-width="2" data-animate="3000">
 			<div class="counter counter-inherit ">
-				<span data-from="1" data-to="30" data-refresh-interval="50" data-speed="3000"></span>%</div>
+				<span data-from="1" data-to="50" data-refresh-interval="50" data-speed="3000"></span>%</div>
 		</div>
 		<h5>Algorithms</h5>
 	</div>
