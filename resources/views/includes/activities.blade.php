@@ -6,14 +6,13 @@
     </div>
 
 
-
     <div class="content-wrap">
 
         <div class="container clearfix">
 
             <!-- Portfolio Filter
                 ============================================= -->
-            <ul id="portfolio-filter" class="portfolio-filter clearfix" data-container="#portfolio">
+            <ul id="portfolio-filter" class="portfolio-filter clearfix" data-container="#portfolio2">
 
                 <li class="activeFilter">
                     <a href="#" data-filter="*">Show All</a>
@@ -38,7 +37,7 @@
 
             <!-- Portfolio Items
                 ============================================= -->
-            <div id="portfolio" class="portfolio grid-container portfolio-2 clearfix">
+            <div id="portfolio2" class="portfolio grid-container portfolio-2 clearfix">
 
                 <article class="portfolio-item pf-basketball">
                     <div class="portfolio-image">

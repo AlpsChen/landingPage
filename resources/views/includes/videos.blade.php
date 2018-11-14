@@ -12,17 +12,17 @@
 
             <div class="col_half">
                 <h3>
-                    <span>Ultimate Guide</span> to React Native Quiz App</h3>
+                    <span>Ultimate Guide</span> to React Native Quiz App
+                </h3>
                 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-                    <embed src="{{asset('images/home/React Native Quiz App.pdf')}}" type="application/pdf" />
+                    <embed src="{{asset('images/home/RN_work.pdf')}}" type="application/pdf" />
                 </div>
             </div>
 
             <div class="col_half col_last">
                 <h3>
-                    <span>Presentations</span> at 6 Companies</h3>
-                {{--
-                <h5>Go to Coding for more information.</h5> --}}
+                    <span>Presentations</span> at 6 Companies
+                </h3>
                 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y3C4779Cww" frameborder="0" allow="autoplay; encrypted-media"
                         allowfullscreen></iframe>
